@@ -1,3 +1,18 @@
+/*
+  BFS works on the Queue (FIFO) data structure.  XD---BARBQUEUE----XD 
+  BFS is graph traversal same as level order.
+  o(n^2)
+  Optimal gives best solution.
+  APPLICATIONS
+  * peers to peers
+  * social networks eg linkdin,fb;
+  * GPS- Navigation system
+  * path finding 
+  * Broadcasting
+  * Garbage colletion
+  
+*/
+
 #include<iostream>
 #include<vector>
 #include<queue>
